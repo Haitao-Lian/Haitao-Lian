@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I am Haitao Lian, a students from China.
+I am Haitao Lian, a students from China.
 - 🌱 I’m currently learning C programming language.
