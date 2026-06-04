@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Haitao Lian, a students from China.
+I am Haitao Lian, a student from China.
 - 🌱 I’m currently learning Python/Go programming language.
-- 🤔 I am looking for a system administrator position.
+- 🖥️ My tech stack: Linux(Fedora), Shell/Awk, Nginx, Docker.
+- 💼 Actively seeking a **DevOps / DevOps Development** role.
