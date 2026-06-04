@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Haitao Lian, a students from China.
-- 🌱 I’m currently learning C programming language.
+- 🌱 I’m currently learning Python/Go programming language.
+- 🤔 I am looking for a system administrator position.
